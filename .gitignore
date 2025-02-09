@@ -1,0 +1,23 @@
+# Dependências do Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Arquivos de build
+dist/
+build/
+.cache/
+
+# Configurações do Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.bak
